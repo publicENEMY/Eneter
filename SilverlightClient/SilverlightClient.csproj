@@ -60,6 +60,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Eneter.Messaging.Framework.Silverlight">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Eneter\Eneter.Messaging.Framework\v5.1.1\Silverlight5\Release\Eneter.Messaging.Framework.Silverlight.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="System.Windows" />
     <Reference Include="system" />
